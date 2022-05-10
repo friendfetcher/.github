@@ -1,4 +1,4 @@
-<p align="center"><img src="http://temp-assets.dev.friendfetcher.com/images/compressed/friend-fetcher-bg.png" alt="friend fetcher" width="360"></p>
+<p align="center"><img src="http://assets.dev.friendfetcher.com/images/compressed/friend-fetcher-bg.png" alt="friend fetcher" width="360"></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/org/friendfetcher">
