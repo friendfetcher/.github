@@ -66,6 +66,6 @@ jobs:
               with:
                   node-version: ${{ inputs.node_version }}
                   cache: yarn
-            - run: yarn install --immutable --immutable-cache --check-cache
+            - run: yarn install --immutable
             - run: ${{ inputs.script }}
 
