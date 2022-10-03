@@ -54,6 +54,8 @@ jobs:
               with:
                   ref: ${{ inputs.ref }}
                   repository: ${{ inputs.repository }}
+                  lfs: true
+                  submodules: true
             - if: inputs.aws_role != '' && inputs.aws_session_name != ''
               name: Configure AWS Credentials
               uses: aws-actions/configure-aws-credentials@v1
