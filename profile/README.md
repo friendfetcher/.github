@@ -1,4 +1,4 @@
-<p align="center"><img src="../icon.svg" alt="friend fetcher" width="360"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/friendfetcher/.github/main/icon.svg" alt="friend fetcher" width="360"></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/org/friendfetcher">
